@@ -1,0 +1,2 @@
+# javapractice
+Practising from scratch
